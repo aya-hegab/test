@@ -1,0 +1,2 @@
+git push origin :test
+git push origin :dev
