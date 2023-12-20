@@ -1,1 +1,1 @@
-![horse](../pexels-batın-özen-16741169.jpg)
+![horse](im/pexels-batın-özen-16741169.jpg)
